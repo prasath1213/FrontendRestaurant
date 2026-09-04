@@ -13,7 +13,7 @@ import { ROLES } from "./utils/constants";
 
 import Login from "./pages/auth/Login";
 import Register from "./pages/auth/Register";
-import AdminLogin from "./pages/admin/AdminLogin";
+import AdminLogin from "./pages/admin/Adminlogin";
 
 import Home from "./pages/customer/Home";
 import Menu from "./pages/customer/Menu";
